@@ -16,4 +16,4 @@ En este ejercicio vamos a hacer una calculadora
 
 - El despliegue se realizó en Netlify.
 
-- Se puede acceder al proyecto en: 
+- Se puede acceder al proyecto en: https://competent-cori-ce8143.netlify.app/
